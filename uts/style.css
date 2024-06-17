@@ -1,0 +1,37 @@
+          body {
+            background-color: white;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        td {
+            padding: 20px;
+        }
+        #kiri {
+            width: 20%;
+            background-color: cadetblue;
+            height: calc(60vh - 20px);
+            margin: 20px;
+        }
+        #tengah {
+            width: 50%;
+            background-color: white;
+            height: calc(60vh - 20px);
+            margin: 20px;
+        }
+        #kanan {
+            width: 50%;
+            background-color: cadetblue;
+            height: calc(60vh - 20px);
+            margin: 20px;
+        }
+        a {
+            text-decoration: none;
+            color: black;
+        }
+        #kanan img {
+            border-radius: 20%;
+            border: 2px solid #ccc;
+        }
